@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+    <title>Script Formatter</title>
+  </head>
+  <style>
+  body{
+    background-color: black;
+    color: white;
+    font-family: helvetica;
+  }
+  h1{
+  	font-family: courier;
+    font-size: 200%;
+  }
+  p{
+  	font-size: 90%;
+  }
+  button{
+  	font-family: courier;
+    font-size: 100%;
+    width: 100%; /* Set a width if needed */
+    padding: 10px 24px; /* Some padding */
+    display: block; /* Make the buttons appear below each other */
+  }
+  button:hover {
+    background-color: #0b95b1;
+    cursor: pointer;
+  }
+  </style>
+  <body>
+    <h1> Script Formatter</h1>
+    <p> Format your script based on the element selected! </p>
+    <button onclick = "google.script.run.formatSceneHeading()" id ="scene-heading-button" title= "One line description of the location and time of day."><b>Scene Heading</b></button>
+    <button onclick = "google.script.run.formatAction()"id ="action-button" title= "The description of actions in a scene."><b>Action</b></button>
+    <button onclick = "google.script.run.formatCharacter()"id ="character-button" title = "Identifies the character who is speaking."><b>Character</b></button>
+    <button onclick = "google.script.run.formatDialogue()"id ="dialogue-button" title = "The lines of speech your character says."><b>Dialogue</b></button>
+  </body>
+</html>
