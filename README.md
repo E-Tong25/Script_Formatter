@@ -4,11 +4,15 @@ The goal of this project was to create a simple, easy to use, appealing, and aff
 <p align = "center">
   <img src = "https://github.com/E-Tong25/Script_Formatter/blob/main/Img/Script%20Formatter%20Location.png">
 
+![](Vid/Script-Formatter-Intro.gif)
+
 # Features
 The user can format selected text to fit the standard format for SCENE HEADINGS, ACTIONS, CHARACTERS, and DIALOGUE as well as insert examples for each component at the location of the cursor on the document.
 
 <p align = "center">
   <img src = "https://github.com/E-Tong25/Script_Formatter/blob/main/Img/Script%20Formatter%20Side%20Bar.png">
+
+![](Vid/Script-Formatter-Features.gif)
 
 # Components
 * **Scene Headings**
