@@ -1,18 +1,16 @@
 # Script_Formatter
 The goal of this project was to create a simple, easy to use, appealing, and affordable Google Docs Add-on that helps the user to write professional, formatted film industry-standard scripts.
 
-<img
-src = "https://github.com/E-Tong25/Script_Formatter/blob/main/Img/Script%20Formatter%20Location.png"
-align = "center"/>
+<p align = "center">
+  <img src = "https://github.com/E-Tong25/Script_Formatter/blob/main/Img/Script%20Formatter%20Location.png">
 
 # Features
 The user can format selected text to fit the standard format for SCENE HEADINGS, ACTIONS, CHARACTERS, and DIALOGUE as well as insert examples for each component at the location of the cursor on the document.
 
-<img
-src = "https://github.com/E-Tong25/Script_Formatter/blob/main/Img/Script%20Formatter%20Side%20Bar.png"
-align = "center"/>
+<p align = "center">
+  <img src = "https://github.com/E-Tong25/Script_Formatter/blob/main/Img/Script%20Formatter%20Side%20Bar.png">
 
-#Components
+# Components
 * **Scene Headings**
   * The scene heading is there to help break up physical spaces and give the reader and production team an idea of the story’s geography.
 
